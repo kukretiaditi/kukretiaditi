@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Aditi</h2>
 
-<img align='right' src="https://(https://pin.it/1hHQMup)](https://images.app.goo.gl/9Rnbc9eJixBd6y6b6)" width="230">
+<img align='right' src="https://images.app.goo.gl/9Rnbc9eJixBd6y6b6)" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
