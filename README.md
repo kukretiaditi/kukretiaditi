@@ -6,13 +6,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at Graphic Era Hill University, Dehradun and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Computing, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions
+- 🎓 &nbsp;  Final Year B.Tech (CSE) student at Graphic Era Hill University, Dehradun
+- 🛠️ &nbsp;  Full-stack developer with hands-on experience in MERN stack and Salesforce CRM development
+- 🌱 &nbsp; Currently Learning : Machine Learning | Generative AI | Deep Learning architectures
+- ✍️ &nbsp; Pursuing Web Development as hobby/side hustle
 
 
 
@@ -20,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | C++ | C 
+- 💻 &nbsp; C++ | C | Python | MERN Stack | REST APIs
 
 
 
